@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Animehub/static/css/main.dabf8e4e.css",
+    "main.js": "/Animehub/static/js/main.e2c08bae.js",
+    "index.html": "/Animehub/index.html",
+    "main.dabf8e4e.css.map": "/Animehub/static/css/main.dabf8e4e.css.map",
+    "main.e2c08bae.js.map": "/Animehub/static/js/main.e2c08bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabf8e4e.css",
+    "static/js/main.e2c08bae.js"
+  ]
+}
